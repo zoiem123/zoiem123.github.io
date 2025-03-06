@@ -1,0 +1,58 @@
+html,
+body {
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.name {
+    display: block;
+    text-align: center;
+}
+
+
+.parallax {
+    /* The image used */
+    background-image: url("newyork.png");
+
+    /* Set a specific height */
+    min-height: 1000px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
+
+
+p {
+    font-size: 65px;
+    background: #dbcfc0;
+    <p style="font-family: 'Playfair Display', serif;">Click on images to get visual representations of "My New York!"
+    </p>
+}
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet"><h1 style="background-color: #33543C; font-family: 'Playfair Display', serif;">My New York</h1><h2 style="background-color: #33543C; font-family: 'Playfair Display', serif;">Zoie Masud</h2><style>.navbar-nav .nav-link {
+    color: green;
+    font-family: 'Playfair Display', serif;
+}
+
+.navbar-brand {
+    color: green;
+    font-family: 'Playfair Display', serif;
+}
+
+</style>
